@@ -17,6 +17,7 @@
     "default_icon": "arduino.png",
     "default_popup": "popup.html"
   },
+
   "permissions":    [
     "activeTab",
     "<all_urls>"
